@@ -69,13 +69,3 @@ Creating login and registration functionality
 
 Managing project structure using Maven
 
-## 📸 Screenshots
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Registration Page
-![Registration Page](screenshots/register.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
