@@ -1,8 +1,9 @@
-🧑‍💼 #Employee Management System
+🧑‍💼 **Employee Management System**
 
 This is a Spring Boot based web application developed as part of my backend learning journey. The project demonstrates employee registration, login functionality, and viewing employee details using a structured MVC architecture.
 
-🚀 #Features
+
+🚀 **Features**
 
 Employee Registration
 
@@ -14,7 +15,8 @@ View Employee Details
 
 MySQL Database Integration
 
-🛠️ #Technologies Used
+
+🛠️ **Technologies Used**
 
 Java
 
@@ -30,7 +32,8 @@ Thymeleaf
 
 Maven
 
-📂 #Project Structure
+
+📂 **Project Structure**
 
 The project follows a layered architecture:
 
@@ -42,7 +45,8 @@ Repository Layer – Manages database operations
 
 Model Layer – Defines Employee entity
 
-🔐 #Application Flow
+
+🔐 **Application Flow**
 
 New employee registers an account.
 
@@ -50,7 +54,8 @@ After successful registration, the employee logs in.
 
 Upon login, employee details are displayed on the dashboard.
 
-🎯 #Learning Outcomes
+
+🎯 **Learning Outcomes**
 
 Through this project, I practiced:
 
